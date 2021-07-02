@@ -1,4 +1,4 @@
-EXPERIMENT 8
+                                                                  EXPERIMENT 8
 practice queries using Aggregate functions (COUNT, SUM, AVG, and MAX and MIN), GROUP BY, HAVING and Creation and dropping of Views. 
 1. Write a Query to display the Information present in the Passenger and cancellation tables. Hint: Use UNION Operator.
  2. Display the number of days in a week on which the 9W01 bus is available. 
